@@ -1,0 +1,30 @@
+2025/06/21 12:21:26 Worker 0 started
+2025/06/21 12:21:26 Worker 1 started
+2025/06/21 12:21:26 Worker 2 started
+2025/06/21 12:21:26 Worker 3 started
+2025/06/21 12:21:26 Worker 4 started
+2025/06/21 12:21:26 Worker 0 processing ride: 2025/06/21 12:21:26 Ride[Ride-0] from Location-0 to Destination-0 (1 passengers)
+2025/06/21 12:21:26 Worker 1 processing ride: 2025/06/21 12:21:26 Ride[Ride-1] from Location-1 to Destination-1 (2 passengers)
+2025/06/21 12:21:26 Worker 2 processing ride: 2025/06/21 12:21:26 Ride[Ride-2] from Location-2 to Destination-2 (3 passengers)
+2025/06/21 12:21:26 Worker 3 processing ride: 2025/06/21 12:21:26 Ride[Ride-3] from Location-3 to Destination-3 (4 passengers)
+2025/06/21 12:21:26 Worker 4 processing ride: 2025/06/21 12:21:26 Ride[Ride-4] from Location-4 to Destination-4 (1 passengers)
+2025/06/21 12:21:26 Worker 1 processing ride: 2025/06/21 12:21:26 Ride[Ride-5] from Location-5 to Destination-5 (2 passengers)
+2025/06/21 12:21:27 Worker 4 processing ride: 2025/06/21 12:21:26 Ride[Ride-6] from Location-6 to Destination-6 (3 passengers)
+2025/06/21 12:21:27 Worker 1 processing ride: 2025/06/21 12:21:26 Ride[Ride-7] from Location-7 to Destination-7 (4 passengers)
+2025/06/21 12:21:27 Worker 2 processing ride: 2025/06/21 12:21:26 Ride[Ride-8] from Location-8 to Destination-8 (1 passengers)
+2025/06/21 12:21:27 Worker 3 processing ride: 2025/06/21 12:21:26 Ride[Ride-9] from Location-9 to Destination-9 (2 passengers)
+2025/06/21 12:21:27 Worker 0 processing ride: 2025/06/21 12:21:26 Ride[Ride-10] from Location-10 to Destination-10 (3 passengers)
+2025/06/21 12:21:27 Worker 1 processing ride: 2025/06/21 12:21:26 Ride[Ride-11] from Location-11 to Destination-11 (4 passengers)
+2025/06/21 12:21:27 Worker 0 processing ride: 2025/06/21 12:21:26 Ride[Ride-12] from Location-12 to Destination-12 (1 passengers)
+2025/06/21 12:21:27 Worker 3 processing ride: 2025/06/21 12:21:26 Ride[Ride-13] from Location-13 to Destination-13 (2 passengers)
+2025/06/21 12:21:27 Worker 4 processing ride: 2025/06/21 12:21:26 Ride[Ride-14] from Location-14 to Destination-14 (3 passengers)
+2025/06/21 12:21:28 Worker 4 processing ride: 2025/06/21 12:21:26 Ride[Ride-15] from Location-15 to Destination-15 (4 passengers)
+2025/06/21 12:21:28 Worker 2 processing ride: 2025/06/21 12:21:26 Ride[Ride-16] from Location-16 to Destination-16 (1 passengers)
+2025/06/21 12:21:28 Worker 2 processing ride: 2025/06/21 12:21:26 Ride[Ride-17] from Location-17 to Destination-17 (2 passengers)
+2025/06/21 12:21:28 Worker 4 processing ride: 2025/06/21 12:21:26 Ride[Ride-18] from Location-18 to Destination-18 (3 passengers)
+2025/06/21 12:21:28 Worker 1 processing ride: 2025/06/21 12:21:26 Ride[Ride-19] from Location-19 to Destination-19 (4 passengers)
+2025/06/21 12:21:31 Worker 1 finished
+2025/06/21 12:21:31 Worker 3 finished
+2025/06/21 12:21:31 Worker 0 finished
+2025/06/21 12:21:31 Worker 4 finished
+2025/06/21 12:21:31 Worker 2 finished
